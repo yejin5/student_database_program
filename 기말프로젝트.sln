@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기말", "기말\기말.vcxproj", "{AAD74491-70DC-45B7-AF4C-1EDC7D8CE1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD74491-70DC-45B7-AF4C-1EDC7D8CE1E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AAD74491-70DC-45B7-AF4C-1EDC7D8CE1E7}.Debug|Win32.Build.0 = Debug|Win32
+		{AAD74491-70DC-45B7-AF4C-1EDC7D8CE1E7}.Release|Win32.ActiveCfg = Release|Win32
+		{AAD74491-70DC-45B7-AF4C-1EDC7D8CE1E7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
